@@ -1,0 +1,10 @@
+test line 1
+linea #4
+Arreglo de bug
+Nueva funcionalidad
+<<<<<<< HEAD
+esto es el arreglo de un bug
+=======
+Nueva funcionalidad
+Esto es el arreglo de un bug
+>>>>>>> modificacion

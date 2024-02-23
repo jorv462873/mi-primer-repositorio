@@ -1,0 +1,6 @@
+test line 1
+linea #4
+Arreglo de bug
+Nueva funcionalidad
+Nueva funcionalidad
+Esto es el arreglo de un bug
